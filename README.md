@@ -3,6 +3,9 @@
 CurroX is a simple and responsive **currency converter** app built with Flutter.  
 It allows you to convert amounts between USD and INR (and vice versa) using a customizable conversion rate.
 
+## 🚀 Live Demo
+👉 [Try CurroX Web](https://sandip4083.github.io/CurroX_web/)
+
 ## Features
 
 - Convert USD → INR and INR → USD easily
